@@ -77,3 +77,12 @@ plt.ylabel("Normalised luminosity L")
 plt.title("Simple Light Curve for Transit")
 plt.savefig("Week_1.png")
 plt.show()
+
+'''OUTPUT:
+Enter total transit duration:0.75
+
+Enter tF:0.5
+
+Enter transit depth:0.01
+
+Enter stellar radius:1.0'''
